@@ -1,2 +1,2 @@
 # Palmeiras
-esse foi um projeto sobre meu clube.
+Esse foi um projeto sobre meu clube.
